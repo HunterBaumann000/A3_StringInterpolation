@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\A3 - String Interpolation\bin\Debug\net5.0\A3 - String Interpolation.exe
+C:\Users\Owner\Desktop\A3 - String Interpolation\bin\Debug\net5.0\A3 - String Interpolation.deps.json
+C:\Users\Owner\Desktop\A3 - String Interpolation\bin\Debug\net5.0\A3 - String Interpolation.runtimeconfig.json
+C:\Users\Owner\Desktop\A3 - String Interpolation\bin\Debug\net5.0\A3 - String Interpolation.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\A3 - String Interpolation\bin\Debug\net5.0\A3 - String Interpolation.dll
+C:\Users\Owner\Desktop\A3 - String Interpolation\bin\Debug\net5.0\ref\A3 - String Interpolation.dll
+C:\Users\Owner\Desktop\A3 - String Interpolation\bin\Debug\net5.0\A3 - String Interpolation.pdb
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.AssemblyInfo.cs
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.dll
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\ref\A3 - String Interpolation.dll
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.pdb
+C:\Users\Owner\Desktop\A3 - String Interpolation\obj\Debug\net5.0\A3 - String Interpolation.genruntimeconfig.cache
